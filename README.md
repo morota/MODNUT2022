@@ -4,7 +4,7 @@
 
 Please do the following before the course. 
 
-Download the the whole GitHub repository by clicking "Code" on the upper right and choose "Download Zip". 
+Download the the whole GitHub repository by clicking "Code" (green color) on the upper right and choose "Download Zip". 
 
 Then upload the following files to your google drive.
 
