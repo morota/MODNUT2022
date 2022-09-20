@@ -1,6 +1,6 @@
-# Statistical graphics, interactive visualization, and computer vision in animal science
+## Statistical graphics, interactive visualization, and computer vision in animal science
 
-## Satellite course at the 10th Workshop on Modelling Nutrient Digestion and Utilization in Farm Animals
+### Satellite course at the 10th Workshop on Modelling Nutrient Digestion and Utilization in Farm Animals
 
 Download the following files.
 
